@@ -47,3 +47,18 @@ Mon inspiration est de pouvoir utilisé la technologie de la numérisation laser
 
 
 [GeoSLAM](https://geoslam.com/)
+
+
+## Bibliographie 
+
+[nframes.com](https://docs.nframes.com/features/sure-products/3d-point-cloud/)
+
+
+[Wikipedia](https://fr.wikipedia.org/wiki/Nuage_de_points_(géométrie))
+
+
+[UnrealEngine](https://forums.unrealengine.com/t/point-clouds-morphing-fx/91038)
+
+
+[UnrealEngine2](https://www.unrealengine.com/marketplace/en-US/product/lidar-point-cloud)
+
