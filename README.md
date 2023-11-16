@@ -1,5 +1,14 @@
 # Planification de l'installation
 
+
+
+## Inspiration de l'installation 
+![studio_ferme.png](medias/studio_ferme.png)
+
+![studio_ouvert.png](medias/studio_ouvert.png)
+
+![projection.png](medias/projection.png)
+
 ## Test de projection sur une toile blanche 
 
 Résultat extérieur 
@@ -12,13 +21,6 @@ Configuration intérieur
 [Extérieur](https://www.youtube.com/shorts/rLRCxFFBhas?feature=share)
 
 [Intérieur](https://youtube.com/shorts/yJrFKN953go)
-
-## Inspiration de l'installation 
-![studio_ferme.png](medias/studio_ferme.png)
-
-![studio_ouvert.png](medias/studio_ouvert.png)
-
-![projection.png](medias/projection.png)
 
 ## Schéma de l'installation du projet 
 
